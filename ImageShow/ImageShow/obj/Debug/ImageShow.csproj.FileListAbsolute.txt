@@ -1,0 +1,10 @@
+C:\Users\YOUNG\source\repos\ImageShow\ImageShow\bin\Debug\ImageShow.exe.config
+C:\Users\YOUNG\source\repos\ImageShow\ImageShow\bin\Debug\ImageShow.exe
+C:\Users\YOUNG\source\repos\ImageShow\ImageShow\bin\Debug\ImageShow.pdb
+C:\Users\YOUNG\source\repos\ImageShow\ImageShow\obj\Debug\ImageShow.csprojAssemblyReference.cache
+C:\Users\YOUNG\source\repos\ImageShow\ImageShow\obj\Debug\ImageShow.Form1.resources
+C:\Users\YOUNG\source\repos\ImageShow\ImageShow\obj\Debug\ImageShow.Properties.Resources.resources
+C:\Users\YOUNG\source\repos\ImageShow\ImageShow\obj\Debug\ImageShow.csproj.GenerateResource.cache
+C:\Users\YOUNG\source\repos\ImageShow\ImageShow\obj\Debug\ImageShow.csproj.CoreCompileInputs.cache
+C:\Users\YOUNG\source\repos\ImageShow\ImageShow\obj\Debug\ImageShow.exe
+C:\Users\YOUNG\source\repos\ImageShow\ImageShow\obj\Debug\ImageShow.pdb
