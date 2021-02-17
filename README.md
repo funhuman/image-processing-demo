@@ -1,44 +1,50 @@
-[English](./README_en.md) | ����
+[English](./README_en.md) | 中文
 
-# ͼ��չʾ
+# 图像展示
 
-## ���
+<img src="https://img.shields.io/badge/license-MIT-green.svg" />
 
-һ��ͼ��չʾ�ʹ����Ĺ��ߡ�
+一个图像展示和处理的工具。
 
-## ����
+## 环境
 
-- ϵͳ��Windows 10
-- Ӧ�ó���Visual Studio 2017
-- ���룺C#
+- 系统：Windows 10
+- 应用程序：Visual Studio 2017
+- 代码：C#
 
-## ʹ�÷���
+## 安装
 
-������Ŀ�ļ���������ʹ�� `Visual Studio` �� `ImageShow.sln`��
+复制项目文件到本机，使用 `Visual Studio` 打开 `ImageShow.sln`。
 
-## ����
+## 功能
 
-### �ļ�����
+### 文件功能
 
-- ��
-- ����Ϊ
-- �˳�
+- 打开
+- 另存为
+- 退出
 
-### �༭����
+### 编辑功能
 
-- ��ɫ
-- ��ɫ
-- �ڰ�
-- �䰵
-- ������
-- ë����
-- ˮƽ��ת
-- ��ֱ��ת
+- 灰色
+- 反色
+- 黑白
+- 变暗
+- 马赛克
+- 毛玻璃
+- 水平翻转
+- 垂直翻转
 
-## ����֤
+## 展示
+
+项目中提供了一张测试图片 `ExamplePicture.png` 供测试功能。还提供了一份展示动画 `ExampleShow.gif`。
+
+![展示](./ImageShow/ExampleShow.gif)
+
+## 许可证
 
 MIT
 
-## �ο�
+## 参考
 
 - [wchstrife.ImageProcessing](https://github.com/wchstrife/ImageProcessing)
